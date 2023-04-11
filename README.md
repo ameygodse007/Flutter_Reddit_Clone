@@ -21,7 +21,7 @@ This project is a clone of Reddit built using Flutter and Firebase. It allows us
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/ameygodse007/Flutter_Reddit_Clone.git`
-2. Change directory to the cloned repository: `cd reddit-clone`
+2. Change directory to the cloned repository: `cd Flutter_Reddit_Clone`
 3. Install dependencies: `flutter pub get`
 4. Create a new Firebase project on the [Firebase Console](https://console.firebase.google.com/)
 5. Add an Android app to your Firebase project using the package name and SHA-1 fingerprint of your project
